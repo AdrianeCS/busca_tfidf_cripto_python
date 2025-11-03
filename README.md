@@ -1,4 +1,4 @@
-# 📚 Documentação do Sistema TF-IDF
+# 📚 Sistema TF-IDF
 
 ## 1\. Visão Geral
 
