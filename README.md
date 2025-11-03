@@ -107,6 +107,4 @@ A matriz `tfidf_matrix` e o `vectorizer` podem ser usados posteriormente para:
   * Busca Semântica (Cálculo de similaridade entre documentos).
   * Clusterização ou Classificação de textos.
 
------
-
 Ficou faltando alguma parte específica do seu código que você gostaria de incluir ou detalhar na documentação?
