@@ -1,5 +1,4 @@
-# 📚 Sistema TF-IDF
-
+# 📚 SISTEMA DE RECUPERAÇÃO DE INFORMAÇÃO SEMÂNTICA DE NOTÍCIAS DE CRIPTOMOEDAS BASEADO EM TF-IDF
 ## 1\. Visão Geral
 
 Este documento descreve o script Python `tfidf.py`, que implementa o algoritmo **TF-IDF** (Frequência de Termo-Inverso da Frequência de Documento) para quantificar a importância de palavras em um conjunto de documentos de texto (notícias sobre criptomoedas).
