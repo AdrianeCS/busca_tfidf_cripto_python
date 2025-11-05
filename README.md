@@ -42,7 +42,7 @@ O sistema requer que o arquivo de dados de entrada (`cripto_noticias.csv`) estej
 Para executar o sistema, navegue até o diretório do projeto no terminal e execute o script usando o interpretador Python:
 
 ```bash
-cd C:\Users\jp8pe\OneDrive\Documentos\Busca_Python
+cd C:\Users\adri21\OneDrive\Documentos\Busca_Python
 py tfidf.py
 ```
 
