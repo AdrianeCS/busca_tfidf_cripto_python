@@ -4,11 +4,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 import nltk
-# Execute a linha abaixo apenas uma vez para baixar os dados
+
 try:
-    nltk.data.find('corpora/stopwords')
-except nltk.DownloadError:
     nltk.download('stopwords')
+    nltk.download('punkt')
+except Exception as e:
+    print("Erro ao baixar dados do NLTK:", e)
+
 
 # 1. Carregar dataset
 df = pd.read_csv("cripto_noticias(1).csv")
